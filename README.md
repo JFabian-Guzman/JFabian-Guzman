@@ -59,7 +59,7 @@ I'm a passionate **fourth-year Computer Science student** at the **University of
 <div align="center">
   
 [![Email](https://img.shields.io/badge/-fabiguzmang1205@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiguzmang1205@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/fabián-guzmán-597b06303](https://github.com/JFabian-Guzman))
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabián-guzmán-597b06303)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JFabian-Guzman)
 
 </div>
