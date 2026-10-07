@@ -48,11 +48,6 @@ I'm a passionate **fourth-year Computer Science student** at the **University of
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JFabian-Guzman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 🤝 Let's Connect!
 
